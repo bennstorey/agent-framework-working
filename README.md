@@ -1,6 +1,9 @@
 # Publish folder — agent framework visual
 
-This folder is ready to drop into a GitHub repo and serve via GitHub Pages.
+**Live at:** https://bennstorey.github.io/agent-framework-working/ (repo: `agent-framework-working`)
+Verified working 2026-09-02 — decrypts, renders all 7 layers / 35 blocks, filters and detail panel all functioning.
+
+This folder is the source for that page. To update it, replace `index.html` in the repo and commit; Pages redeploys in about a minute.
 
 **Contents**
 
